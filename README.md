@@ -1,4 +1,4 @@
-                                                                🛡️ Justificación de Detección Antivirus
+                                                          🛡️ Justificación de Detección Antivirus
   
 
 Este software puede ser detectado por algunos antivirus debido a su empaquetado en .exe, uso de cifrado para proteger configuraciones internas y funciones de red para verificación de licencia.
